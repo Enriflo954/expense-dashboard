@@ -16,8 +16,8 @@ Todo el procesamiento ocurre en el navegador de quien lo usa; el archivo no se c
 
 ## Stack técnico
 
-HTML, CSS y JavaScript sin dependencias externas ni framework — un único archivo (`panel_gastos.html`), sin backend. Los gráficos son SVG generado dinámicamente en el propio navegador.
+HTML, CSS y JavaScript sin dependencias externas ni framework — un único archivo (`index.html`), sin backend. Los gráficos son SVG generado dinámicamente en el propio navegador.
 
 ## Licencia
 
-*(Agregar según corresponda antes de publicar.)*
+Todos los derechos reservados. © 2026 Enrique Flórez. No se autoriza su copia, modificación ni redistribución sin permiso previo.
