@@ -20,4 +20,4 @@ HTML, CSS y JavaScript sin dependencias externas ni framework — un único arch
 
 ## Licencia
 
-*(Agregar según corresponda antes de publicar.)*
+Todos los derechos reservados 2026.Enrique Florez No se autoriza su copia,modificacion ni redistribucion sin permiso previo.
