@@ -19,4 +19,5 @@ Todo el procesamiento ocurre en el navegador de quien lo usa; el archivo no se c
 HTML, CSS y JavaScript sin dependencias externas ni framework — un único archivo (`panel_gastos.html`), sin backend. Los gráficos son SVG generado dinámicamente en el propio navegador.
 
 ## Licencia
-Todos los derechos reservados 2026.Enrique Florez No se autoriza su copia,modificacion ni redistribucion sin permiso previo.
+
+*(Agregar según corresponda antes de publicar.)*
